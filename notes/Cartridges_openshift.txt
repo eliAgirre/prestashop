@@ -1,0 +1,10 @@
+Cartridges:
+-----------
+
+PHP 5.4
+
+MySQL 5.5 - Database: shop User: adminVXv1Cm2 Password: yVtMy8Msvq9R
+
+phpMyAdmin 4.0
+
+ClearDB MySQL Database 
