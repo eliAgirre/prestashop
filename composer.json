@@ -3,7 +3,6 @@
   "description": "PrestaShop offers a free, fully scalable, Open Source e-commerce solution.",
   "type": "project",
   "repositories": [
-    /*{"type": "vcs", "url": "https://github.com/prestashop/blockbanner"},*/
     {"type": "vcs", "url": "https://github.com/prestashop/blockcart"},
     {"type": "vcs", "url": "https://github.com/prestashop/blockcurrencies"},
     {"type": "vcs", "url": "https://github.com/prestashop/blocklanguages"},
@@ -53,7 +52,6 @@
     "prestashop/smarty": "dev-master",
     "prestashop/bankwire": "dev-feat/starter-theme",
     "prestashop/blockadvertising": "dev-feat/starter-theme",
-    /*"prestashop/blockbanner": "dev-feat/starter-theme",*/
     "prestashop/blockbestsellers": "dev-feat/starter-theme",
     "prestashop/blockcart": "dev-feat/starter-theme",
     "prestashop/blockcategories": "dev-feat/starter-theme",
