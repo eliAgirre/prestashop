@@ -10,7 +10,6 @@
     {"type": "vcs", "url": "https://github.com/prestashop/blockuserinfo"},
     {"type": "vcs", "url": "https://github.com/prestashop/blockcontact"},
     {"type": "vcs", "url": "https://github.com/prestashop/blockmyaccount"},        
-    {"type": "vcs", "url": "https://github.com/prestashop/socialsharing"}
   ],
   "require": {
     "php": ">=5.4",
@@ -55,7 +54,6 @@
     "prestashop/productscategory": "dev-master",
     "prestashop/producttooltip": "dev-master",
     "prestashop/sekeywords": "dev-master",
-    "prestashop/socialsharing": "dev-feat/starter-theme",
     "prestashop/statsbestcategories": "dev-master",
     "prestashop/statsbestcustomers": "dev-master",
     "prestashop/statsbestmanufacturers": "dev-master",
