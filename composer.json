@@ -10,7 +10,6 @@
     {"type": "vcs", "url": "https://github.com/prestashop/blockuserinfo"},
     {"type": "vcs", "url": "https://github.com/prestashop/blockcontact"},
     {"type": "vcs", "url": "https://github.com/prestashop/blockmyaccount"},        
-    {"type": "vcs", "url": "https://github.com/prestashop/blocksocial"},
     {"type": "vcs", "url": "https://github.com/prestashop/blockreassurance"},
     {"type": "vcs", "url": "https://github.com/prestashop/socialsharing"}
   ],
@@ -43,7 +42,6 @@
     "prestashop/blockreassurance": "dev-feat/starter-theme",
     "prestashop/blockrss": "dev-master",
     "prestashop/blocksharefb": "dev-master",
-    "prestashop/blocksocial": "dev-feat/starter-theme",
     "prestashop/blocktags": "dev-master",
     "prestashop/blocktopmenu": "dev-feat/starter-theme",
     "prestashop/blockuserinfo": "dev-feat/starter-theme",
