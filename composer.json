@@ -9,7 +9,7 @@
     {"type": "vcs", "url": "https://github.com/prestashop/blocktopmenu"},
     {"type": "vcs", "url": "https://github.com/prestashop/blockuserinfo"},
     {"type": "vcs", "url": "https://github.com/prestashop/blockcontact"},
-    {"type": "vcs", "url": "https://github.com/prestashop/blockmyaccount"},        
+    {"type": "vcs", "url": "https://github.com/prestashop/blockmyaccount"}        
   ],
   "require": {
     "php": ">=5.4",
