@@ -80,9 +80,9 @@
     "prestashop/vatnumber": "dev-master"
   },
   "require-dev": {
-    "phpunit/phpunit": "~4.5",
+    "phpunit/phpunit": "~5.7",
     "phake/phake": "2.*",
-    "fabpot/php-cs-fixer": "^1.10",
+    "friendsofphp/php-cs-fixer": "^1.10",
     "sensio/generator-bundle": "~2.3",
     "phpdocumentor/phpdocumentor": "2.*",
     "incenteev/composer-parameter-handler": "~2.0"
